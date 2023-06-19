@@ -14,6 +14,5 @@ public class FirstDemo {
         int age = scanner.nextInt();
         System.out.println("Nice to meet you, " + name + ". Your age is: " + age);
 
-
     }
 }
