@@ -1,0 +1,25 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º€İºıÿÿÿÿ8üˆÔî1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(û²ÌÆüÿÿÿÿ8È‰Ôî1
+8
+java:S3626#"Remove this redundant jump.(ûÁİ…8Í‰Ôî1
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(“¿›Âÿÿÿÿÿ8Ï‰Ôî1
+s
+java:S3457'"Q%n should be used in place of \n to produce the platform-specific line separator.(Ã†Âùÿÿÿÿ8Ñ‰Ôî1
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(Ã†Âùÿÿÿÿ8Ñ‰Ôî1
+n
+java:S3457)"Q%n should be used in place of \n to produce the platform-specific line separator.(Úì¢8×‰Ôî1
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(Úì¢8Ù‰Ôî1
+s
+java:S3457,"Q%n should be used in place of \n to produce the platform-specific line separator.(üğÊ™øÿÿÿÿ8Ú‰Ôî1
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(üğÊ™øÿÿÿÿ8Û‰Ôî1
+s
+java:S3457."Q%n should be used in place of \n to produce the platform-specific line separator.(¿Œ˜üÿÿÿÿ8Ü‰Ôî1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(¿Œ˜üÿÿÿÿ8İ‰Ôî1
+T	java:S1066"9Replace this use of System.out or System.err by a logger.(Ş¹•E8å‰Ôî1
+s
+java:S34579"Q%n should be used in place of \n to produce the platform-specific line separator.(Á«­¶şÿÿÿÿ8ç‰Ôî1
+G
+java:S34579"%String contains no format specifiers.(Á«­¶şÿÿÿÿ8ç‰Ôî1
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(Á«­¶şÿÿÿÿ8ë‰Ôî1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(“¿›Âÿÿÿÿÿ8í‰Ôî1
