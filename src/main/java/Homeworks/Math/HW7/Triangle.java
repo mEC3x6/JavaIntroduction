@@ -1,4 +1,4 @@
-package Homeworks.Math;
+package Homeworks.Math.HW7;
 
 public class Triangle {
     //public static int CalculateSofTriangle (int a, int h ){
