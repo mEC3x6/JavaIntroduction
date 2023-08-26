@@ -1,0 +1,27 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(èŞË§ıÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(×íÑ‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²§Û¼ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·ùßóıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Õ×ß·
+S	java:S106"9Replace this use of System.out or System.err by a logger.(È‘¿öüÿÿÿÿ
+B
+java:S1125"'Remove the unnecessary boolean literal.(È‘¿öüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËÿÚ°
+=
+java:S1125"'Remove the unnecessary boolean literal.(ËÿÚ°
+S	java:S106"9Replace this use of System.out or System.err by a logger.(û·Ò‰ûÿÿÿÿ
+B
+java:S1125"'Remove the unnecessary boolean literal.(û·Ò‰ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­°›§
+=
+java:S1125"'Remove the unnecessary boolean literal.(­°›§
+M	java:S106"9Replace this use of System.out or System.err by a logger.(€§*
+<
+java:S1125"'Remove the unnecessary boolean literal.(€§*
+>
+java:S1940")Use the opposite operator ("==") instead.(€§*
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§
+V	java:S125"<This block of commented-out lines of code should be removed.(ŒêÀÕùÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ïø«z
